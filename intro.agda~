@@ -1,2 +1,8 @@
 -- Let's play with agda.
-module demo1 where
+
+module intro where --load the file with C-c - like that
+
+data Bool: Set where
+  true : Bool
+  false : bool
+
