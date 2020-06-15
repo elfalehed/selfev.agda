@@ -1,9 +1,13 @@
 -- Let's play with agda.
+  -- Am i having fun doing this? @KMx404
+
 
 module intro where --load the file with C-c - like that
 
 data Bool: Set where
   true : Bool
-  fase : Bool
+  false : Bool
 
-data Empty
+data Empty: Set Empty 
+  Empty : Empty -- I'm gonna leave this here. Moving to tests 
+
