@@ -3,6 +3,8 @@
 <br />
 
 Agda is a dependently typed functional programming language originally developed by Ulf Norell at Chalmers University of Technology with implementation described in his PhD thesis. The original Agda system was developed at Chalmers by Catarina Coquand in 1999. 
+With AGDA you can develop a depnedent software that prove itself (The basic parameters && components)
+
 <br />
 ### :bookmark: Why am i doing this? 
 Well, I'm doing this for fun.
