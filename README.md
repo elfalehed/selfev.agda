@@ -6,7 +6,9 @@ Agda is a dependently typed functional programming language originally developed
 With AGDA you can develop a depnedent software that prove itself (The basic parameters && components)
 
 <br />
-### :bookmark: Why am i doing this? 
+
+
+### :bookmark: Why am i doing this? <br />
 Well, I'm doing this for fun.
 And i wanted to share stuff on my github account. SO i may seem cool? Haha 
 Anyway, 
