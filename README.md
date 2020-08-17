@@ -16,5 +16,5 @@ I'm gonna post my progress here with AGDA. Its gonna be hard to follow, and the 
 
 ## :warning: Documentations, Progress filling 
 I will release the full docs once I break down the part I'm willing to work on. 
-its gonna be documented !
+its gonna be documented ! <br /> 
 SO STAY TUNED
